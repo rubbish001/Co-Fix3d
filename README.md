@@ -1,7 +1,7 @@
 # Co-Fix3d & Co-Fusion
 LiDAR-Based 3D Object detection 1st on nuScenes data
 
-Co-Fix3d mutil-mode rank 50th on the leader
+Co-Fix3d mutil-mode rank 55th on the leader
 
 Co-Fusion mutil-mode rank 25th on the leader
 
