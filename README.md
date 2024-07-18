@@ -1,4 +1,4 @@
-# Co-Fix3d
+# Co-Fix3d & Co-Fusion
 LiDAR-Based 3D Object detection 1st on nuScenes data
 
 Co-Fix3d mutil-mode rank 50th on the leader
@@ -19,3 +19,5 @@ nuScenes val dataset
 | Co-Fix3D  | L  |66.7  |71.3 |
 | Co-Fix3D  | L+C  |70.6  |72.9  |
 | Co-Fusion  | L+C  |73.0  |74.3  |
+
+ToDo Multi-Frame Fusion: Co-Stream will coming soon
