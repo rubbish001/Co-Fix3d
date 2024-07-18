@@ -20,4 +20,4 @@ nuScenes val dataset
 | Co-Fix3D  | L+C  |70.6  |72.9  |
 | Co-Fusion  | L+C  |73.0  |74.3  |
 
-ToDo Multi-Frame Fusion: Co-Stream will coming soon
+ToDo Multi-Frame Fusion: Co-Stream is coming soon
