@@ -4,6 +4,7 @@ LiDAR-Based 3D Object detection 1st on nuScenes data
 Co-Fix3d mutil-mode rank 50th on the leader
 
 Co-Fusion mutil-mode rank 25th on the leader
+
 nuScenes test dataset 
 | Method |Modality |mAP|NDS |
 | ------------- | ------------- | ------------- | ------------- |
