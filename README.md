@@ -1,4 +1,4 @@
-# Co-Fix3d & Co-Fusion & Co-Stream
+# BEVFix& Co-Fix3d & Co-Fusion & Co-Stream
 
 welcome to replicate my experiment if you have GPUs available. I used 4 NVIDIA 4090 GPUs, and I estimate that using 8 GPUs would yield even better results.
 
@@ -14,6 +14,7 @@ Co-Fusion mutil-mode rank 25th on the leader
 nuScenes test dataset 
 | Method |Modality |mAP|NDS |
 | ------------- | ------------- | ------------- | ------------- |
+| BEVFix  | L  |68.0  |71.9 |
 | Co-Fix3D  | L  |69.3  |72.5 |
 | Co-Fix3D  | L+C  |72.3  |74.1  |
 | Co-Fusion  | L+C  |74.1  |75.1  |
@@ -22,6 +23,7 @@ nuScenes test dataset
 nuScenes val dataset 
 | Method |Modality |mAP|NDS |
 | ------------- | ------------- | ------------- | ------------- |
+| BEVFix  | L  |65.5  |70.0 |
 | Co-Fix3D  | L  |66.7  |71.3 |
 | Co-Fix3D  | L+C  |70.6  |72.9  |
 | Co-Fusion  | L+C  |73.0  |74.3  |
