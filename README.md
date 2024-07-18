@@ -1,4 +1,4 @@
-# Co-Fix3d & Co-Fusion
+# Co-Fix3d & Co-Fusion & Co-Stream
 LiDAR-Based 3D Object detection 1st on nuScenes data
 
 Co-Fix3d mutil-mode rank 55th on the leader
