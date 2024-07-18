@@ -1,4 +1,7 @@
 # Co-Fix3d & Co-Fusion & Co-Stream
+
+welcome to replicate my experiment if you have GPUs available. I used 4 NVIDIA 4090 GPUs, and I estimate that using 8 GPUs would yield even better results.
+
 LiDAR-Based 3D Object detection 1st on nuScenes data
 
 Co-Fix3d mutil-mode rank 55th on the leader
