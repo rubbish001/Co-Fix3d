@@ -3,10 +3,13 @@
 welcome to replicate my experiment if you have GPUs available. I used 4 NVIDIA 4090 GPUs, and I estimate that using 8 GPUs would yield even better results.
 
 LiDAR-Based 3D Object detection 1st on nuScenes data
+![image](https://github.com/user-attachments/assets/de987d56-41c1-416b-8dd6-de78e8412a6e)
 
 Co-Fix3d mutil-mode rank 55th on the leader
+![image](https://github.com/user-attachments/assets/aa84d720-59d6-41c5-9a26-c4f400f289c5)
 
 Co-Fusion mutil-mode rank 25th on the leader
+![1721280421256](https://github.com/user-attachments/assets/3813c88b-0c46-4583-986b-51d49a9b0733)
 
 nuScenes test dataset 
 | Method |Modality |mAP|NDS |
