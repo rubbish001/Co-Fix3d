@@ -15,7 +15,7 @@ nuScenes test dataset
 | Method |Modality |mAP|NDS |
 | ------------- | ------------- | ------------- | ------------- |
 | BEVFix  | L  |68.0  |71.9 |
-| Co-Fix3D  | L  |69.1  |72.9 |
+| Co-Fix3D  | L  |69.4  |73.5 |
 | Co-Fix3D  | L+C  |72.3  |74.1  |
 | Co-Fusion  | L+C  |74.1  |75.3  |
 
@@ -24,7 +24,7 @@ nuScenes val dataset
 | Method |Modality |mAP|NDS |
 | ------------- | ------------- | ------------- | ------------- |
 | BEVFix  | L  |65.5  |70.0 |
-| Co-Fix3D  | L  |66.8  |71.3 |
+| Co-Fix3D  | L  |67.3  |72.0 |
 | Co-Fix3D  | L+C  |70.8  |73.1  |
 | Co-Fusion  | L+C  |73.1  |74.2  |
 
