@@ -26,6 +26,6 @@ nuScenes val dataset
 | BEVFix  | L  |65.5  |70.0 |
 | Co-Fix3D  | L  |67.3  |72.0 |
 | Co-Fix3D  | L+C  |70.8  |73.1  |
-| Co-Fusion  | L+C  |73.1  |74.2  |
+| Co-Fusion  | L+C  |73.5  |74.9  |
 
 ToDo Multi-Frame Fusion: Co-Stream is coming soon
