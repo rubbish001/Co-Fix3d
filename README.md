@@ -23,11 +23,11 @@ nuScenes test dataset
 
 
 nuScenes val dataset 
-| Method |Modality |mAP|NDS |
-| ------------- | ------------- | ------------- | ------------- |
-| BEVFix  | L  |65.5  |70.0 |
-| Co-Fix3D  | L  |67.3  |72.0 |
-| Co-Fix3D  | L+C  |70.8  |73.6  |
-| Co-Fusion  | L+C  |73.5  |74.9  |
+| Method |Modality |mAP|NDS |log |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| BEVFix  | L  |65.5  |70.0 ||
+| Co-Fix3D  | L  |67.3  |72.0 ||
+| Co-Fix3D  | L+C  |70.8  |73.6  |[NDS72.0_mAP67.3](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto)
+| Co-Fusion  | L+C  |73.5  |74.9  ||
 
 ToDo Multi-Frame Fusion: Co-Stream is coming soon
