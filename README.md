@@ -12,12 +12,12 @@ Co-Fusion mutil-mode rank 25th on the leader
 ![1721280421256](https://github.com/user-attachments/assets/3813c88b-0c46-4583-986b-51d49a9b0733)
 
 nuScenes test dataset 
-| Method |Modality |mAP|NDS |
-| ------------- | ------------- | ------------- | ------------- |
+| Method |Modality |mAP|NDS | Ref
+| ------------- | ------------- | ------------- | ------------- |------------- |
 | BEVFix  | L  |68.0  |71.9 |
-| Co-Fix3D  | L  |69.4  |73.5 |
-| Co-Fix3D  | L+C  |72.3  |74.7  |
-| Co-Fusion  | L+C  |74.1  |75.3  |
+| Co-Fix3D  | L  |69.4  |73.5 |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_481792/75e2db36-512e-49e3-9499-c0c6fd0f613f.json)|
+| Co-Fix3D  | L+C  |72.3  |74.7  ||
+| Co-Fusion  | L+C  |74.1  |75.3  ||
 
 
 nuScenes val dataset 
