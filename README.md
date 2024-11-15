@@ -16,7 +16,7 @@ nuScenes test dataset
 | ------------- | ------------- | ------------- | ------------- |------------- |
 | BEVFix  | L  |68.0  |71.9 |
 | Co-Fix3D  | L  |69.4  |73.5 |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_481792/75e2db36-512e-49e3-9499-c0c6fd0f613f.json)|
-| Co-Fix3D  | L+C  |72.3  |74.7  ||
+| Co-Fix3D  | L+C  |72.3  |74.7  |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_482475/b8eb0314-2419-4533-b2d7-b006c35faf3e.json)||
 | Co-Fusion  | L+C  |74.1  |75.3  ||
 
 
