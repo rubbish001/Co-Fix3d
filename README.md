@@ -3,7 +3,7 @@
 The source code will be made available upon acceptance of the paper.
 
 welcome to replicate my experiment if you have GPUs available. I used 4 NVIDIA 4090 GPUs, and I estimate that using 8 GPUs would yield even better results.
-
+Co-Fix: https://arxiv.org/pdf/2408.07999
 nuScenes test dataset 
 | Method |Modality |mAP|NDS | Ref
 | ------------- | ------------- | ------------- | ------------- |------------- |
