@@ -2,7 +2,7 @@
 
 welcome to replicate my experiment if you have GPUs available. I used 4 NVIDIA 4090 GPUs, and I estimate that using 8 GPUs would yield even better results.
 
-Co-Fix: https://arxiv.org/pdf/2408.07999
+Co-Fix: [Paper]( https://arxiv.org/pdf/2408.07999)
 
 
 nuScenes test dataset 
