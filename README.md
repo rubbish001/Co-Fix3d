@@ -8,7 +8,7 @@ Co-Fix: [Paper]( https://arxiv.org/pdf/2408.07999)
 nuScenes test dataset 
 | Method |Modality |mAP|NDS | Ref
 | ------------- | ------------- | ------------- | ------------- |------------- |
-| BEVFix  | L  |68.0  |71.9 |
+| BEVFix  | L  |68.0  |71.9 |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_329188/584c1ae1-86e6-42f8-b31d-b51a90840a30.txt)|
 | Co-Fix3D  | L  |69.4  |73.5 |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_481792/75e2db36-512e-49e3-9499-c0c6fd0f613f.json)|
 | BEVFix(resnet-50)  | L+C |71.1  |73.2 |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_441293/eb01c8ed-00c4-48ae-88f5-8fca826b785b.json)|
 | BEVFix(swin-t)  | L+C  |72.3 |74.1 |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_442241/af5d644f-484e-4ad1-84e7-ef651fdbde33.json)|
