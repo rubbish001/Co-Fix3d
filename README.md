@@ -13,7 +13,7 @@ nuScenes test dataset
 | BEVFix(resnet-50)  | L+C |71.1  |73.2 |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_441293/eb01c8ed-00c4-48ae-88f5-8fca826b785b.json)|
 | BEVFix(swin-t)  | L+C  |72.3 |74.1 |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_442241/af5d644f-484e-4ad1-84e7-ef651fdbde33.json)|
 | Co-Fix3D(resnet-50)   | L+C  |72.3  |74.7  |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_482475/b8eb0314-2419-4533-b2d7-b006c35faf3e.json)||
-| Co-Fusion  | L+C  |74.1  |75.3  ||
+| Co-Fusion  | L+C  |74.1  |75.3  |[result](https://evalai.s3.amazonaws.com/media/submission_files/submission_465446/00c01835-0166-42f2-80e5-fbf741ac32a0.json)||
 
 
 nuScenes val dataset 
